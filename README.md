@@ -1,5 +1,6 @@
 # GRIP @ The Sparks Foundation Tasks ⚡️
-Repo containing all the tasks assigned under the <a href="https://www.linkedin.com/company/the-sparks-foundation/"> Graduate Rotational Internship Program (GRIP)</a> in Data Science and Analytics by <a href="https://www.thesparksfoundationsingapore.org"> The Sparks Foundation, Singapore</a>.
+Repo containing all the tasks assigned under the <a href="https://www.linkedin.com/company/the-sparks-foundation/"> Graduate Rotational Internship Program (GRIP)</a> in Data Science and Analytics by <a href="https://www.thesparksfoundationsingapore.org"> The Sparks Foundation, Singapore</a>. <br>
+<a href="https://drive.google.com/file/d/1cBAUXcE_asXCHNHmZXgVUIZztDi648s1/view">Google Doc for reference.</a>
 ## Task 1 - Prediction using Supervised ML
 Predict the percentage of an student based on the no. of study hours. <br>
 Data can be found <a href="http://bit.ly/w-data">here</a>. <br>
